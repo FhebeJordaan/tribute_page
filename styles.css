@@ -1,0 +1,31 @@
+body {
+    background-color: white;
+    margin: 0 20%;
+    font-family: monospace;
+  }
+  
+  #title {
+    text-align: center;
+    font-size: 3em;
+  }
+  
+  img {
+    display: block;
+    max-width: 80%;
+    margin: 0 10%;
+  }
+  
+  #img-caption {
+    font-size: 10px;
+  }
+  
+  div#tribute-info {
+    background-color: white;
+    padding: 5px 10px;
+    margin-top: 20px;
+  }
+  
+  h1.title {
+    color: white;
+    text-align: center;
+  }
